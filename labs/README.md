@@ -1,6 +1,8 @@
 ⦁	OBJECTIVE
 Amazon EC2 provides a wide selection of instance types optimized to fit different use cases.  comprise varying combinations of CPU, memory, storage, and networking capacity and give you the flexibility to choose the appropriate mix of resources for your applications. Each instance type includes one or more instance sizes so that you can scale your resources to the requirements of your target workload.
+
 ⦁	Topics covered:
+
 Launched a web server with termination protection enabled
 Monitored my EC2 instance
 Modified the security group that my web server is using to allow HTTP access
