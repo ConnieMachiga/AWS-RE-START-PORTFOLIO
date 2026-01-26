@@ -1,2 +1,2 @@
 # AWS-RE-START-PORTFOLIO
-Cloud Infrastructure Labs and Hands-on Practice (AWS-based) – for AWS Cloud Practitioner
+A professinal showcase of projects and learnings from the AWS Restart program, focusing on cloud computing fundamentals and AWS services
