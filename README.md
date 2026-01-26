@@ -27,4 +27,4 @@ End-to-end cloud projects demonstrating applied knowledge, architecture design, 
 ---
 
 ## Author
-Shaun Wana
+Connie Machiga
