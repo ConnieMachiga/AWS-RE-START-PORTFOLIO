@@ -60,6 +60,7 @@ The instance did not terminate and a red error message pops up at the top that s
  <img width="1081" height="97" alt="image" src="https://github.com/user-attachments/assets/40e58f03-0328-4f72-a02a-1a201a9dac51" />
 
 When this happens, i need to disable termination protection In the Actions  menu, select Instance settings  Change termination protection.
+
  <img width="614" height="390" alt="image" src="https://github.com/user-attachments/assets/9428ffec-d2c0-47fa-ad28-d1ff466b16e8" />
 
 When this is done, I terminate the instance. In the Actions  menu, select Instance State  Terminate instance.
