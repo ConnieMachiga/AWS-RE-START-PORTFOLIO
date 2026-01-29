@@ -1,30 +1,16 @@
-# AWS Cloud Portfolio
+AWS Restart Projects 🚀
 
-This repository showcases my hands-on experience with cloud computing concepts and AWS services.
-It includes practical labs, projects, and certifications completed as part of structured cloud training and independent learning.
+This repository showcases projects and learnings from the AWS Restart program, focusing on cloud computing fundamentals and AWS services.
 
-The work in this repository demonstrates foundational and intermediate skills in:
-- Cloud infrastructure
-- Compute and networking services
-- Security and database fundamentals
-- Hands-on AWS labs and projects
+Projects:
 
-This portfolio is designed to grow as I continue working on cloud-based solutions and real-world projects.
+- EC2 Deployment: Automated deployment of a web app on EC2 instances
+- S3 Data Storage: Secure data storage and retrieval using S3 buckets
+- Lambda Functions: Serverless computing with AWS Lambda
 
----
+Skills Demonstrated:
 
-## Repository Structure
-
-### Labs
-Hands-on labs focused on core cloud infrastructure concepts.
-
-### Certifications & Badges
-Documentation and evidence of completed cloud learning paths and simulations.
-
-### Projects
-End-to-end cloud projects demonstrating applied knowledge, architecture design, and deployment.
-
----
-
-## Author
-Connie Machiga
+- Cloud Computing
+- AWS Services (EC2, S3, Lambda)
+- Problem-Solving
+- Code Deployment
