@@ -30,30 +30,40 @@ Key features:
 
 <h2>S3 Deployment Steps</h2>
 
+
 <b><em>1. Create a bucket</em></b>
 
+
 ![WhatsApp Image 2026-02-04 at 13 58 29](https://github.com/user-attachments/assets/0e09a17d-f9ae-447e-9fe5-1aaec5e168e9)
+
 
 
 <b><em>2.Enable public access</em></b>
 
 
+
 ![WhatsApp Image 2026-02-04 at 14 13 24](https://github.com/user-attachments/assets/c2f60e81-0174-48f8-8f00-341bfc737c60)
+
 
 
 <b><em>3. Add a bucket policy</em><b>
 
 
+
 ![WhatsApp Image 2026-02-04 at 14 16 22](https://github.com/user-attachments/assets/ec3972b0-3eee-421a-9f39-2c6b560ea4b5)
+
 
 
 <b><em>4. Enable static website hosting</em></b>
 
 
+
 ![WhatsApp Image 2026-02-04 at 14 20 36](https://github.com/user-attachments/assets/ff3bf6f3-68ef-446f-b4d7-980ea88d0edb)
 
 
+
 <b><em>5. Add objects</em></b>
+
 
 
 ![WhatsApp Image 2026-02-05 at 13 30 50](https://github.com/user-attachments/assets/6d2b9981-13fd-4b03-bf7f-0823dd4d12be)
@@ -63,7 +73,14 @@ Key features:
 <b><em>6. Create and make use of Cloudfront content distribution network</em></b>
 
 
+
 ![WhatsApp Image 2026-02-05 at 13 32 02](https://github.com/user-attachments/assets/cb027d11-cfc9-4f6c-80b0-59516c0972bb)
+
+
+
+
+<h2>Freshly ground cafe architecture</h2>
+
 
 
 ![WhatsApp Image 2026-02-05 at 15 31 36](https://github.com/user-attachments/assets/852e9fed-f039-4226-8909-2f226528dd3d)
