@@ -31,3 +31,15 @@
 <p><b><em>AWS Lambda for serverless tasks:</em></b> performs on-demand image/video processing and thumbnail generation od 3D models, reducing server load.</p>
 <p><b><em>Event-driven computations:</em></b> Employs serverless processing for smaller, time-senditive tasks, ensuring efficient resource usage.</p>
 <h2>7.Databases</h2>
+<p><b><em>Transactional storage with RDS:</em></b> Relational databases like MySQL or PostgreSQL store critical data such as orders and payment history securely and reliably.</p>
+<p><b><em>Fast catalog access with DynamoDB:</em></b> Used to store product metadata and interaction data, enabling low latency and scalable access.</p>
+<p><b><em>Scalability and fault tolerance:</em></b> Databases are configured for Multi-AZ deployments and automated backups to minimise data loss risks.</p>
+<h2>8.Monitoring and security</h2>
+<p><b><em>Performance monitoring with cloudwatch:</em></b> Tracks metrics such as application latency and error rates while triggering alerts for irregularities.</p>
+<p><b><em>Continuous optimization with trusted advisor:</em></b> Highlights inefficiencies in cost, performance, and security for constant improvement.</p>
+<p><b><em>Access conrol with IAM:</em></b> Defines granular access permissions, ensuring the principle of least privilege in enforced across the platform.</p>
+<p><b><em>Threat prevention with AWS WAF:</em></b> Shields the application from web-based threats like SQL injection and cross-site scripting attacks.</p>
+<p><b><em>Encryption implementation:</em></b> Uses SSL/TLS protocols via cloudfront to ensure secure data transmission between users and the platform.</p>
+<h1>AWS Service Choices And Rationale</h1>
+<p><b><em>High Availability:</em></b> Leverages ELB to distribute incoming traffic across multiple EC2 instances and AZs, ensuring that no single point of failure disrupts uptime.Cloudfront reduces latency by caching static assets globally, providing users with quick access to content from edge locations. Multi-AZ RDS provides automatic failover.</p>
+<p><b><em>Scalability:</em></b> Auto scaling dynamically adjusts the number of EC2 instances according to traffic patterns, accomodating sudden spikes or reducing idle resources automatically. AWS Lambda enhances scalability by managing event-driven workloads without requiring pre-provisioned infrastructure. DynamoDB offers horizontal scaling to handle increased read and write throughput for product catalog metadata and interaction data without performance degradaton.</p>
