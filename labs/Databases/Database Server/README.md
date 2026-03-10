@@ -36,7 +36,7 @@ After completing this lab, I can:
 
 <img width="1078" height="374" alt="Screenshot 2026-03-10 154548" src="https://github.com/user-attachments/assets/e540c388-9ea7-4e52-80f9-1e1afb4ce98b" />
 
-<p>Task 4: Interact with the database</p>
+<h2>Task 4: Interact with the database</h2>
 <p>In this task, I will open a web application running on my web server and configure it to use the database.</p>
 
 <img width="1184" height="454" alt="Screenshot 2026-03-10 155440" src="https://github.com/user-attachments/assets/be6f0b91-828f-4c69-bed1-f6c3ceb99767" />
