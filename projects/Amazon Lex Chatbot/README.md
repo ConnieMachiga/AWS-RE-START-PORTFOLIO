@@ -7,4 +7,7 @@
 <ol>1. Chatbot development</ol>
 <ol>2. Problem solving</ol>
 <ol>3. Technical knowledge</ol>
-<ol>4. Cmmunication and presentation</ol>
+<ol>4. Communication and presentation</ol>
+
+[Project 3 Interactive Chatbot Using Amazon Lex 2.pptx](https://github.com/user-attachments/files/26166380/Project.3.Interactive.Chatbot.Using.Amazon.Lex.2.pptx)
+
