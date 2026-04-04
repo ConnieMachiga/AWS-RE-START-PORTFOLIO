@@ -8,6 +8,11 @@
 <ol>2. Problem solving</ol>
 <ol>3. Technical knowledge</ol>
 <ol>4. Communication and presentation</ol>
+<h1>Professional summary</h1>
+<p>This project demonstrates a conversational chatbot using Amazon Lex, a service by Amazon Web Services that enables the creation of intelligent, voice-and taxt-based interfaces. The chatbot is designed to understand user intents, process natural language input, and provide automated responses based on predefined logic.</p>
+<p>Key features of this project include intent creation, and slot configuration for capturing user input. The bot is tested and deployed using AWS tools, showcasing how conversational AI can be applied to real-world scenarios such as customer support and task automation.</p>
+<p>This project highlights practical experience in building serverless applications, working with natural language processing, and designing user-friendly conversational flows in a cloud environment.</p>
+<p>Attached below is the project presentation.</p>
 
 [Project 3 Interactive Chatbot Using Amazon Lex 2.pptx](https://github.com/user-attachments/files/26166380/Project.3.Interactive.Chatbot.Using.Amazon.Lex.2.pptx)
 
@@ -76,14 +81,18 @@
 
 <img width="777" height="484" alt="image" src="https://github.com/user-attachments/assets/e274c80c-0349-4572-a444-a7cd158873b7" />
 
+<h2>The quiz</h2>
+<p>Stem bot gives feedback on correct answers</p>
 
+<img width="350" height="516" alt="Screenshot 2026-04-04 211104" src="https://github.com/user-attachments/assets/7c5d10f2-e7e9-4c3f-907c-70b6aa50eddf" />
 
+<p>Stem bot gives feedback on incorrect responses</p>
 
+<img width="351" height="508" alt="Screenshot 2026-04-04 211227" src="https://github.com/user-attachments/assets/f3c39dad-a1e2-4a20-87d1-b12638fef3f3" />
 
+<p>Stem bot lets the user know that the quiz is complete</p>
 
-
-
-
+<img width="350" height="525" alt="Screenshot 2026-04-04 211416" src="https://github.com/user-attachments/assets/acf90be0-9b35-47f5-a908-2270ce7baf4b" />
 
 
 
