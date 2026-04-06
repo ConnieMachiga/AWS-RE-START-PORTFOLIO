@@ -91,3 +91,15 @@ Key features:
 
 Freshly ground cafe website is cost-effective, scalable and fast. It handles traffic spikes like a pro. It easily updates by just adding new files(objects) in the bucket. Low maintenance and high impact.
 
+<p>When given this project, I did not have much experience with cloud services or website deployment. Instead of only using what I already knew, I decided to learn more on my own. I read AWS guides, watched tutorials, and practiced how to upload files, set permissions, and make the website public on amazon S3.</p>
+<p>At first, I made mistakes like wrong settings and access errors, but I kept trying and fixing them by learning from my errors. I also wanted the website to look better, so I improved the design using HTML and CSS. I made sure that the website was simple, clear, and easy to use, and I tested it to see if it works properly</p>
+<p>Overall, I was able to successfully deploy the website and make it accessible online. This project helped me learn new skills and showed me that being curious and willing to learn can help me solve problems and improve my work,</p>
+
+
+
+
+
+
+
+
+
